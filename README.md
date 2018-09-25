@@ -5,4 +5,4 @@ Indice de los ejercicios de la clase de Diana Cruz
 3. [Movimiento](https://dianacruz0.github.io/mediosInteractivos/03.3/)
 4. [Herramienta de dibujo](https://dianacruz0.github.io/mediosInteractivos/04.2/)
 5. [Reloj](https://dianacruz0.github.io/mediosInteractivos/05/)
-
+6. [Video Musical](https://dianacruz0.github.io/mediosInteractivos/06/)
